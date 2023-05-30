@@ -1,15 +1,12 @@
 [
-<<<<<<< HEAD
 
-]
-=======
-    {
-      "name": "theme_info",
-      "theme_name": "Dawn",
-      "theme_version": "9.0.0",
-      "theme_author": "Shopify",
+  {
+      "name": "theme_infos",
+      "theme_name": "ShopifyCustom",
+      "theme_version": "1.0.0",
+      "theme_author": "ShCopify",
       "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
       "theme_support_url": "https:\/\/support.shopify.com\/"
-    }
+  }
 ]
->>>>>>> d3750e4 (config files edits)
+
