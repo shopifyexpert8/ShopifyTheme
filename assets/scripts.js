@@ -1,1 +1,1 @@
-alert('We are going to check js');
+document.write('Mizan getting ready for Shopify');
