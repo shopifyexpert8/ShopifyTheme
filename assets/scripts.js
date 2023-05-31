@@ -1,1 +1,0 @@
-document.write('Mizan getting ready for Shopify');
