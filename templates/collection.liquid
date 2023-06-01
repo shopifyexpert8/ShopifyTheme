@@ -36,7 +36,7 @@
       <li>
         <a class="product-card" href="{{ product.url | within: collection }}">
           <img src="{{ product.featured_image.src | img_url: '1024x' }}" alt="">
-          {{ product.title }}
+          <span>{{ product.title }}</span>
           <p>
             <span aria-hidden="true">—</span>
             {%- if product.price_varies -%}
