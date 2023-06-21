@@ -2,7 +2,7 @@
     <div class="grid">
         <h1>{{ shop.name }}</h1>
         <nav class="navigation">
-            <<ul class="navigation__list navigation__list--inline">
+            <ul class="navigation__list navigation__list--inline">
                 <!-- Main menu -->
             {% for link in linklists.main-menu.links -%}
                 <li class="navigation__item">{{ link.title | link_to: link.url }}</li>
