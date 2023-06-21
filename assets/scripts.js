@@ -1,1 +1,1 @@
-alert("Hey js");
+console.log('Mizan');
