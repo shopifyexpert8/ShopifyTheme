@@ -1,1 +1,2 @@
-console.log('Mizan');
+var name ='Mizan is writting JS';
+console.log(name);
